@@ -5,12 +5,10 @@ const MealsSummary = () => {
     <section className={classes.summary}>
       <h2>Delicious Food, Delivered To You</h2>
       <p>
-        Choose your favorite meal from our broad selection of available meals
-        and enjoy a delicious lunch or dinner at home.
+        좋아하는 음식을 선택하고 장바구니에 넣어보세요!
       </p>
       <p>
-        All our meals are cooked with high-quality ingredients, just-in-time and
-        of course by experienced chefs!
+        경험많은 요리사가 최상의 재료들로 요리를 준비합니다.
       </p>
     </section>
   );
