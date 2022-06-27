@@ -1,7 +1,7 @@
 # React-Food
 ## Udemy강의를 통해 React로 음식을 주문하는 서비스를 만들었습니다.
 
-modal: createPotal로 modal를 구현 <br/>
+#### modal: createPotal로 modal를 구현 <br/>
 데이터: useContext, Provider로 데이터를 관리<br/>
 css: React에서 제공하는 module.css를 적용시켜봄으로 ClassName의 중복을 피함<br/>
 firebase: modal form제출시 주문 데이터가 firebase로 이동<br/>
