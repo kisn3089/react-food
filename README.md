@@ -11,7 +11,7 @@ firebase: modal form제출시 주문 데이터가 firebase로 이동
 useReduce: 주문할 음식의 갯수를 더하고 빼는것, form제출 후 useReduce 'CLEAR'로 장바구니 초기화는 useReduce로 구현
 ```
 ### 배포 vercel: https://react-food-nu.vercel.app/
----------------------------
+
 ![food](https://user-images.githubusercontent.com/96061695/175877679-61893810-dc8a-4ba9-b259-59f4c4e6a48e.png)
 ![food2](https://user-images.githubusercontent.com/96061695/175877696-51b1712f-253a-4af7-b7a1-86d0dad513f5.png)
 ![food3](https://user-images.githubusercontent.com/96061695/175877705-5368bbe3-59af-47cb-abf5-eee47d2dd4d6.png)
