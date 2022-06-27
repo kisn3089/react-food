@@ -1,5 +1,7 @@
 # React-Food
-## Udemy강의를 통해 React로 음식을 주문하는 서비스를 만들었습니다.
+```
+Udemy강의를 통해 React로 음식을 주문하는 서비스를 만들었습니다.
+```
 
 #### modal: createPotal로 modal를 구현   
 데이터: useContext, Provider로 데이터를 관리   
